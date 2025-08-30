@@ -1,8 +1,3 @@
-Perfect ✅ You’ll need a **README.md** file for your project so others (or future you 😅) can quickly understand what it does, how to run it, and the dataset used.
-
-Here’s a clean **README.md** draft for your Food Recognition + Calorie Estimation project:
-
----
 
 # 🍔 Food Recognition and Calorie Estimation Model
 
